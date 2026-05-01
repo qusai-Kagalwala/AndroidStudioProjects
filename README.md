@@ -1,7 +1,7 @@
 # 📱 AndroidStudioProjects
 
 > **Mobile Application Development** — Kotlin & Android  
-> Qusai Kagalwala | Roll No: 25KCSYCS17 | KC College, Mumbai | 2025–2026
+> Qusai Kagalwala
 
 ---
 
